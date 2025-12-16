@@ -17,5 +17,3 @@ venv/
 *.pth
 *.pt
 
-# Data directories (keep your repo small and safe)
-trickski_data/
